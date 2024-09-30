@@ -1,6 +1,14 @@
 # LITA_CLASS_DOCUMENTATION
 ### Project Title: E Commerce Sales Analysis 
 
+### Table of Content
+-    [Project Preview](#Project-preview)
+-    [Data Sources](#Data-sorces)
+-    [Tools Used](#Tools-Used)
+-    [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
+-    [Exploratory Data Analysis](#Exploratory-data-analysis)
+-    [Data Analysis](#Data-analysis)
+
 ### Project Overview
 ---
 This Data Analysis project aims to generates insight into the sales perfomance of the E Commerce project over the past year. By analysing the variuos parameters in the data received, we seek to gather enoughn insight to make reasonable decisions which then enables us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
@@ -17,7 +25,7 @@ The primary source of data used here is data Sale-csv and this is an open source
     3. For Visualization
 -  SQL- Structured Query Language for querying of data
 -  Github for portfolio building
-
+  
 ### Data Cleaning and Preparation
 ---
 In the initial phase of Data Cleaning and Preparation, we perform the following actions
