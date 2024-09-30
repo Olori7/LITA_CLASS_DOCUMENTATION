@@ -40,3 +40,11 @@ This is where we include some basic llines of codes or Queries or even some of t
 Select * From TABLE 1
 Where condition = True
 ```
+
+### Data Visualization
+
+![REGION CHART](https://github.com/user-attachments/assets/ae0c8ea2-61f3-4f4d-99c3-1bbf4c298454)
+
+
+![TOP 10 REVENUE CHART](https://github.com/user-attachments/assets/3b7434a5-b9db-401d-bf3e-0f6e5b5ac9b6)
+
