@@ -17,9 +17,9 @@ The primary source of data used here is data Sale-csv and this is an open source
 
 ### Data Cleaning and Preparation:
 In the initial phase of Data Cleaning and Preparation, we perform the following actions
-    1. Data Loading and Inspection
-    2. Handling Missing Variables
-    3. Data Cleaning and Formatting
+-    Data Loading and Inspection
+-    Handling Missing Variables
+-    Data Cleaning and Formatting
 
 ### Exploratory Data Analysis
 EDA involves exploring of the data to answer some questions about the data such as;
